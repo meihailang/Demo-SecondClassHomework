@@ -1,7 +1,7 @@
 # Demo-SecondClassHomework
 
 
-- 第二节课作业
+第二节课作业
 
 
 - 实现了以下规则：
